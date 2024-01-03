@@ -3,7 +3,10 @@
 
 ### 📖 The following are my areas of interest (currently)
 <div>
+  <img src="https://img.shields.io/badge/Java-red">
   <img src="https://img.shields.io/badge/Swift-blue">
-  <img src="https://img.shields.io/badge/Java-Red">
+   <img src="https://img.shields.io/badge/Mechine Learning-green">
+  <img src="https://img.shields.io/badge/Deep Learning-NLP-violet">
+ 
 </div>
 
