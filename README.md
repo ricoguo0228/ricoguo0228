@@ -1,5 +1,5 @@
 ### 🥳 Welcome to my homePage !
-![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=)
+![Dusai's GitHub stats](https://github-readme-stats.vercel.app/api?username=ricoguo0228)
 
 ### 📖 The following are my areas of interest (currently)
 <div>
