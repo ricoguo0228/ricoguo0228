@@ -1,7 +1,7 @@
 # 🥳 Welcome to my homePage !
 
 <div align="center">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=ricoguo0228&show_icons=true&theme=transparent" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ricoguo0228&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
