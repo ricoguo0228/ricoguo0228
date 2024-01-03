@@ -1,4 +1,4 @@
-# 🥳 Welcome to my homePage !
+# 🥳 Hi there !
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ricoguo0228&show_icons=true&theme=transparent" /> 
